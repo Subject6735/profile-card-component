@@ -31,7 +31,7 @@ Mobile:
 ### Links
 
 - Repository URL: [https://github.com/Subject6735/profile-card-component](https://github.com/Subject6735/profile-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://subject6735.github.io/profile-card-component/](https://subject6735.github.io/profile-card-component/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Mobile:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Subject6735](https://www.frontendmentor.io/profile/Subject6735)

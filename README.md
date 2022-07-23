@@ -6,7 +6,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -18,20 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Build out the project to the designs provided
 
-### Screenshot
-
-Desktop:
-
-![](screenshots/screenshot_desktop.png)
-
-Mobile:
-
-![](screenshots/screenshot_mobile.png)
-
 ### Links
-
-- Repository URL: [https://github.com/Subject6735/profile-card-component](https://github.com/Subject6735/profile-card-component)
-- Live Site URL: [https://subject6735.github.io/profile-card-component/](https://subject6735.github.io/profile-card-component/)
+- [Live site](https://mdeme01.github.io/profile-card-component/)
 
 ## My process
 
@@ -43,4 +30,4 @@ Mobile:
 
 ## Author
 
-- Frontend Mentor - [@Subject6735](https://www.frontendmentor.io/profile/Subject6735)
+- Frontend Mentor - [@mdeme01](https://www.frontendmentor.io/profile/mdeme01)
